@@ -1,0 +1,178 @@
+[
+{
+    "home":{
+       "aboutme":{
+        "title": "About Me",
+        "content":"Hi, I am Asghar Ali Mohammed, UI Designer and Frontend Developer. Worked in various companies in India and Saudi Arabia. UI designing for web & mobile and frontend development using technologies such as Html, Css, Bootstrap, javascript, jquery, React, photoshop and etc. Click here for more skills."
+       },
+       "education":{
+           "title":"Education",
+           "content":"I have done Masters in Computer Application from sikkim manipal University Distance Education."
+       },
+       "diplomas":{
+           "title":"Diploma's",
+           "content":["Diploma in Web Designing","Post Graduation Diploma in Computer Application (PGDCA)","Diploma in Dotnet Technologies"]
+       },
+       "certification":{
+           "title":"Certifications",
+           "content":"MCP - Microsoft Certified Professional, Exam 528 Client Development. Year 2008, Access: Certificate, Transcript ID: 793067, access code: asgharali"
+       }
+    }
+},
+{
+    "projects":{
+        "1":{
+            "name":"King Abdul Aziz Public Library",
+            "url":"http://www.kapl.org.sa",
+            "details":"In a team, my responsiblity was to design the User Interface and developed frontend then finally integrating UI with ASP.NET MVC Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript",
+            "img":"images/img-kapl.png"
+        },
+        "2":{
+            "name":"King Abdul Aziz Digital Library",
+            "url":"http://www.kadl.sa",
+            "details":"In this project also my responsiblity was to design the User Interface and developed frontend then finally integrating UI with ASP.NET Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript",
+            "img":"img-kadl.png"
+        },
+        "3":{
+            "name":"Arabian Union Catalog",
+            "url":"http://www.kapl.org.sa/aruc/",
+            "details":"Most of my work in this firm use to design the User Interface and developed frontend then finally integrate UI with ASP.NET Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript, CSS animation",
+            "img":"img-aruc.png"
+          
+        },
+        "4":{
+            "name":"Reading National Project",
+            "url":"http://reading.kapl.org.sa/",
+            "details":"Most of my work in this firm use to design the User Interface and developed frontend then finally integrate UI with ASP.NET Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript",
+            "img":"img-aruc.png"
+          
+        },
+        "5":{
+            "name":"Training System",
+            "url":"http://www.kapl.org.sa/trainingSystem",
+            "details":"My work use to design the User Interface and developed frontend then finally integrate UI with ASP.NET Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript",
+            "img":"img-trainingsystem.png"
+          
+        },
+        "6":{
+            "name":"King Abdullah",
+            "url":"http://www.kingabdullah.sa/",
+            "details":"designed the User Interface and developed frontend then finally integrated UI with ASP.NET Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript",
+            "img":"img-king-webui.png"
+        },
+        "7":{
+            "name":"King Abdul Aziz Public Library",
+            "url":"http://www.kingabdullah.sa/",
+            "details":"Designed UI and developed the app",
+            "skills": "Html, Css/Css3, jQuery Mobile, Phonegap/Cordova",
+            "img":"img-mobileapp.png"
+        }
+    }
+},
+{
+    "skills":{
+        "userinterfacedesigning":{
+            "title":"User Interface Designing",
+            "skills":"PHOTOSHOP"
+        },
+        "frontenddevelopment":{
+            "title":"Frontend Development",
+            "skills":["REACT: 6 Months Experience", "HTML","HTML5", "CSS","CSS3", "BOOTSTRAP","WEB RESPONSIVE", "CROSS BROWSER COMPATIBILITY", "INTEGRATION/COLLABORATION of UI design with platforms such as ASP.NET, ASP.NET MVC, WORDPRESS AND ETC.","JQUERY", "JAVASCRIPT"]
+        },
+        "mobiledevelopment":{
+            "title":"Mobile Development",
+            "skills":["Hybrid Mobile Apps","HTML", "Jquery Mobile","Phonegap", "Cordova", "For IOS and Android" ]
+        },
+        "haveknowledge":{
+            "title":"Have Knowledge",
+            "skills":["ES6","NodeJS", "JSON","API", "Ajax","CSS pre-processor SASS", "SEO principles and implementations","Google Analytics", "ASP.NET frontend"]
+
+        },
+        "mobileappsdeploymentonStores":{
+            "title":"Mobile Apps deployment on Stores",
+            "skills":["IOS apps deployment on Apple Apps store","Android apps deployment on Playstore "]
+        }
+  }
+},
+{
+  "experience":{
+      "1":{
+        "title":"King Abdul Aziz Public Library",
+      "startendDate":"4th Nov 2013 - 30 Sep 2018, Saudi Arabia",
+      "rolesresponsibilities":{
+          "title":"Roles and Responsibilities",
+          "description":["Creating UI for Web and Mobile Apps", "Creating Web Responsive UI for Mobile/Tablet/Desktop", "Solving issues of Cross-Browser compatibility, Cross Platforms (IE, Firefox, Chrome, Safari & etc.)", "UI integration with DotNet Web Application using Visual Studio", "UI Integration with DotNet MVC Application using Visual Studio", "Web deployment on hosting services and managing websites/ Web Applications", "Creating Hybrid Mobile Applications for IOS and Android. jQuery Mobile, Cordova/ PhoneGap","Deployment of Mobile apps on IOS AppStore, Android Playstore","Bootstrap, UI KIT and etc."],
+          "projects":["http://www.kapl.org.sa/", "http://www.kadl.sa/", "http://www.kapl.org.sa/aruc/", "http://reading.kapl.org.sa/", "http://www.kapl.org.sa/trainingSystem/","http://www.kingabdullah.sa/"],
+          "img-url":"img-kapl.png"
+      }
+      },
+      "2":{
+        "title":"Motivity Labs",
+      "startenddate":"Jul 2012 - Apr 2013, India",
+      "rolesresponsibilities":{
+          "title":"Roles and Responsibilities",
+          "description":["Creating Websites in Html5, Css3 and jQuery using Dreamweaver and hand coding", "Editing Wordpress UI and administrating Wordpress", "Integrating/Collaborating UI Design with Wordpress","Designing Mobile Apps for Android, Iphone, Windows Phone", "UI Integration with DotNet MVC Application using Visual Studio","Web deployment on hosting services and managing websites/ Web Applications","Web deployment on hosting services and managing websites and Web Applications","Designing Brochures, Company Certificates and other graphics designing."],
+          "img-url":"img-motivitylabs.png"
+      }
+      },
+      "3":{
+        "title":"Freelancer in Web Designing and Web Development",
+        "startenddate":"Nov 2011 - May 2012, UK Client",
+        "rolesresponsibilities":{
+          "title":"Roles and Responsibilities",
+          "description":["Designing of Web Page Layout using Adobe Photoshop","Creating HTML Pages using Dreamweaver, Html, CSS (UI designing)","Integration of HTML pages with ASP.Net Forms","Developing Web Applications Using ASP.NET using Visual Studio 2010, Sql Server 2008"]
+      }
+      },
+      "4":{
+        "title":"Freelancer Web Designer and Frontend Developer",
+        "startenddate":"Mar 2011 - Nov 2011, USA Client",
+        "rolesresponsibilities":{
+          "title":"Roles and Responsibilities",
+          "description":["Designing of Web Page Layout using Adobe Photoshop","Creating HTML Pages using Dreamweaver, Html, CSS","UI Integration with ASP.Net backend"]
+      }
+      },
+      "5":{
+        "title":"Mawhiba ",
+        "startenddate":"Jun 2007 - Jan 2011, Saudi Arabia",
+        "rolesresponsibilities":{
+          "title":"Roles and Responsibilities",
+          "description":["Designing of Web Page Layout using Adobe Photoshop","Creating HTML Pages using Dreamweaver, Html, CSS","UI Integration with ASP.Net backend"],
+          "image-url":"img-mawhiba.png"
+      }
+      },
+      "6":{
+        "title":"Mbian ",
+        "startenddate":"Dec 2005 - Jun 2007, Saudi Arabia",
+        "rolesresponsibilities":{
+          "title":"Roles and Responsibilities",
+          "description":["Creating WebSite using photoshop,html,css,javascript", "Maintaining Websites", "Creating Brochures, Pamphlets, Email Fliers, CD Cover & etc.", "Web Hosting, Web Deployment"],
+          "image-url":"img-mbian.png"
+      }
+      },
+      "7":{
+        "title":"Al Hobess Pvt. Ltd.",
+        "startenddate":"Nov 2004 - Dec 2005, Saudi Arabia",
+        "rolesresponsibilities":{
+          "title":"Roles and Responsibilities",
+          "description":["Developed Websites in HTML/CSS/Javascript, Static Websites and Dynamic", "Created Flash Websites", "Created Flash Websites","Created Flash Presentation","Cross-browser compatibility, Testing/Debugging/Solving Issues in all the major browsers such as IE, FF and others"],
+          "image-url":"img-alhobess.png"
+      }
+    }
+   
+  }
+},
+{
+  "contact":{
+      "title":"Contact",
+      "listContacts":["+61 04310 75716","ali.itechpro@gmail.com","linkedin"]
+  }
+}
+   
+
+]

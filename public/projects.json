@@ -1,0 +1,113 @@
+[
+
+    {
+        "id":"1",
+        "name":"Australian Partners of Defence",
+        "url":"https://apod.com.au/",
+        "details":"Enhancing User Interface, making responsive images and media, fixing bugs, fixing browser compatibility issues on IE, Firefox, Chrome and Safari. ",
+        "skills": "Html, Css/Css3, Bootstrap, Javascript, Jquery",
+        "img":"images/img-apod.png",
+        "imgAlt":"Australian Partners of Defence",
+        "company":"Australian Partners of Defence"
+
+    },
+
+    {
+        "id":"2",
+        "name":"Sydney Computing Solutions ",
+        "url":"",
+        "details":"Creating website Layout in Photoshop from scratch, converting into HTML,CSS,and Bootstrap Template then finally integrating with backend technologies, Asp.net MVC, Wordpress and Java",
+        "skills": "Html, Css/Css3, Bootstrap, Javascript",
+        "img":"images/img-sydcs.png",
+        "imgAlt":"Sydney Computing Solutions",
+        "company":"Sydney Computing Solutions"
+
+    },
+        
+    
+    {
+            "id":"3",
+            "name":"King Abdul Aziz Public Library",
+            "url":"http://www.kapl.org.sa",
+            "details":"In a team, my responsiblity was to design the User Interface and developed frontend then finally integrating UI with ASP.NET MVC Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript",
+            "img":"images/img-kapl.png",
+            "imgAlt":"King Abdul Aziz Public Library",
+            "company":"King Abdul Aziz Public Library"
+
+        },
+        {
+            "id":"4",
+            "name":"King Abdul Aziz Digital Library",
+            "url":"",
+            "details":"In this project also my responsiblity was to design the User Interface and developed frontend then finally integrating UI with ASP.NET Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript",
+            "img":"images/img-kadl.png",
+            "imgAlt":"King Abdul Aziz digital Library",
+            "company":"King Abdul Aziz Public Library"
+        },
+        {
+            "id":"5",
+            "name":"Arabian Union Catalog",
+            "url":"http://www.kapl.org.sa/aruc/",
+            "details":"Most of my work in this firm use to design the User Interface and developed frontend then finally integrate UI with ASP.NET Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript, CSS animation",
+            "img":"images/img-aruc.png",
+            "imgAlt":"Arabian Union Catalog",
+            "company":"King Abdul Aziz Public Library"
+          
+        },
+        {
+            "id":"6",
+            "name":"Reading National Project",
+            "url":"http://www.reading.sa/",
+            "details":"Most of my work in this firm use to design the User Interface and developed frontend then finally integrate UI with ASP.NET Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript",
+            "img":"images/img-reading.png",
+            "imgAlt":"Reading National Project",
+            "company":"King Abdul Aziz Public Library"
+          
+        },
+        {
+            "id":"7",
+            "name":"Training System",
+            "url":"http://www.kapl.org.sa/trainingSystem",
+            "details":"My work use to design the User Interface and developed frontend then finally integrate UI with ASP.NET Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript",
+            "img":"images/img-trainingsystem.png",
+            "imgAlt":"Training System",
+            "company":"King Abdul Aziz Public Library"
+        },
+        {
+            "id":"8",
+            "name":"King Abdullah",
+            "url":"",
+            "details":"designed the User Interface and developed frontend then finally integrated UI with ASP.NET Backend Technology. ",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript",
+            "img":"images/img-k-webui.png",
+            "imgAlt":"King Abdullah",
+            "company":"King Abdul Aziz Public Library"
+        },
+        { 
+            "id":"9",
+            "name":"Book Club",
+            "url":"http://bookclub.kapl.org.sa/",
+            "details":"Created frontend for this application, and integrated with backend ASP.Net",
+            "skills": "Html, Css/Css3, Bootstrap, Javascript",
+            "img":"images/img-bookclub.png",
+            "imgAlt":"Book Club Kapl",
+            "company":"King Abdul Aziz Public Library"
+        },
+        { 
+            "id":"10",
+            "name":"King Abdul Aziz Public Library",
+            "url":"https://play.google.com/store/apps/details?id=com.kapl.org",
+            "name2":"IOS App on Appstore",
+            "url2":"https://itunes.apple.com/us/app/%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9/id1210318625?ls=1&mt=8",
+            "details":"UI Designing, development and deployment on IOS App Store & Play Store ",
+            "skills": "Html, CSS, jQuery Mobile, Phonegap/Cordova",
+            "img":"images/img-kaplmobile.png", 
+            "imgAlt":"King Abdul Aziz Public Library",
+            "company":"King Abdul Aziz Public Library"
+        }
+]

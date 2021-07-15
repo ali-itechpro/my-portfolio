@@ -1,0 +1,175 @@
+body{
+    margin:0px; padding:0px;
+    background-color: #052535;
+}
+
+.pnl-left{
+    color:#fff;
+}
+.bg-left-pnl{
+    background: #288ec2;
+}
+
+.bg-right-pnl{
+    background:#dedede;
+}
+.img-portfolio-frame{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    margin:0px auto;
+    border:1px solid #fff;
+    box-shadow: 1px 1px 1px 1px;
+    text-align:center;
+}
+
+.img-portfolio{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    margin:0px auto;
+    border:1px solid #fff;
+    box-shadow: 1px 1px 1px 1px;
+    text-align:center;
+}
+
+
+.title-name{
+    font-size:38px;
+    text-align: center;
+    color:#fff;
+}
+
+.display-5 {
+    font-size: 38px;
+    font-weight: 300;
+    line-height: 1.2;
+}
+.display-6 {
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.display-7 {
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.title-designation{
+    text-align: center;
+    font-weight: 300;
+    line-height: 1.2;
+    padding:10px;
+    font-size: 22px;
+}
+.email-info{
+    list-style-type:none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.btn {
+   
+    border-radius: 0px;
+  
+}
+
+.main-menu >ul{
+    margin:0px;
+    padding:0px;
+}
+.main-menu >ul>li{
+ list-style-type: none;
+ margin:0px;
+ padding:3px;
+ text-align: center;
+ 
+
+}
+
+.display-8{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+.page-headings{
+    color:#fff;
+    text-align: center;
+    font-weight: 300;
+    font-size: 26px;
+}
+.page-content{
+    padding:0 30px;
+    background:#fff;
+    float:left;
+    width: 100%;
+    text-align: justify;
+}
+.btn-left-menu{
+    width:200px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #12648e;
+    border-color: #0d4e6f;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #0a4563;
+    border-color: #0062cc;
+}
+
+.btn-primary-active {
+    color: #fff;
+    background-color: #0a4563;
+    border-color: #0062cc;
+}
+
+
+.bg-primary {
+    background-color: #288ec2 !important;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #1ac6e1;
+    border-color: #17a2b8;
+}
+
+.btn-radius{
+    border-radius: .25em !important;
+}
+
+.card-img{
+    border:1px solid #ccc;
+    padding:3px;
+}
+
+.badge{
+    margin:2px;
+}
+
+.logo-experience{
+    width:60px;
+    float:left;
+    margin:20px 20px 0 0
+}
+
+
+
+
+
+@media (min-width: 1200px)
+{
+.container {
+    max-width: 1000px !important;
+}
+}
